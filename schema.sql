@@ -76,6 +76,10 @@ INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Jason", "Baker", 1, 6);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Tom", "Nice", 2, 7);
+INSERT INTO employee (first_name, last_name, manager_id, role_id)
+VALUE ("Jeff", "Barns", 1, 4);
+INSERT INTO employee (first_name, last_name, manager_id, role_id)
+VALUE ("Candice", "Price", null, 2);
 
 -- SELECTING FOR CREATING 
 --TABLES IN OUR SQL WORKBENCH 
