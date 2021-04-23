@@ -4,8 +4,8 @@
 
 Employee Tracker is a CLI applicaiton for building and maintaining companies employee data base. Built on MySQL and leveraging modularity in the structure of Employee Tracker, it can scale appropriatley with a companies growth without reconfiguring the core structure of the internal employee data base. This application can act as a foundation to continue to build upon. Employee allows managers or someone within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from your CLI.
 
-## Deployed Application :
-[Note Taker](https://limitless-caverns-87298.herokuapp.com/)
+## Git Hub :
+[Employee Database](https://ofarrell23.github.io/Employee-Tracker/)
 
 # Table of Contents
 * [Technology](#technology)
@@ -19,23 +19,23 @@ Employee Tracker is a CLI applicaiton for building and maintaining companies emp
 
 MySQL: Relational database management system based on SQL – Structured Query Language, used in this applicationt to warehouse and query employee and company data.
 Express.js - Used for application set up of middle ware for end point connection between the front end and backend.
+
 Node.js - Used for package managment and to execute JavaScript code to build command line tool for server-side scripting.
+
 Javascript - Used to base functionality of functions and prompts within the application.
 Git - Version control system to track changes to source code
 GitHub - Hosts repository that can be deployed to GitHub Pages
 
 # Demo :
-https://youtu.be/voA54aj39D0
-
-![Note Taker](public/assets/NoteTaker.gif)
+https://youtu.be/tWGeLmnC3_A
 
 # Application Preview : 
 
-![Note Taker](public/assets/Note2.png)
+![Employee Database](assets/employee.gif)
 
 # Technology :
 
-**1. [Express.js](https://expressjs.com/)** :
+**1. [Express.js](https://expressjs.com/) :
 
 * Web Applications : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
@@ -43,7 +43,7 @@ https://youtu.be/voA54aj39D0
 
 * Performance : Express provides a thin layer of fundamental web application features, without obscuring Node.js features.
 
-**2. [Node.js](https://nodejs.org/en/)** : 
+**2. [Node.js](https://nodejs.org/en/): 
 
 * Node.js is an open-source and cross-platform JavaScript runtime environment. 
 
@@ -61,7 +61,7 @@ In order to use this application you will need to first run an npm install in yo
 # Questions
 
 If you have any questions about the repo, 
-[open an issue](https://github.com/Ofarrell23/Note-Taker-Redo/issues) 
+[open an issue](https://github.com/Ofarrell23/Employee-Tracker/issues) 
 or contact me directly at [Email](mailto:keyabug@gmail.com).
 
 ## Credits
