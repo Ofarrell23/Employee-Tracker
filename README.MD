@@ -28,7 +28,7 @@ Javascript - Used to base functionality of functions and prompts within the appl
 Git - Version control system to track changes to source code
 GitHub - Hosts repository that can be deployed to GitHub Pages
 
-**1. [Express.js](https://expressjs.com/) :
+1. [Express.js](https://expressjs.com/) :
 
 * Web Applications : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 
@@ -36,7 +36,7 @@ GitHub - Hosts repository that can be deployed to GitHub Pages
 
 * Performance : Express provides a thin layer of fundamental web application features, without obscuring Node.js features.
 
-**2. [Node.js](https://nodejs.org/en/): 
+2. [Node.js](https://nodejs.org/en/): 
 
 * Node.js is an open-source and cross-platform JavaScript runtime environment. 
 
