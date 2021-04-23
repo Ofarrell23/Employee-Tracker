@@ -9,10 +9,12 @@ Employee Tracker is a CLI applicaiton for building and maintaining companies emp
 
 # Table of Contents
 * [Technology](#technology)
-* [Features](#features)
+* [Demo](#demo)
+* [Application](#application)
+* [Instalation](#instalation)
 * [License](#license)
-* [Contribution](#contribution)
 * [Questions](#questions)
+* [Credits](#credits)
 
 
 # Technology Used
@@ -25,15 +27,6 @@ Node.js - Used for package managment and to execute JavaScript code to build com
 Javascript - Used to base functionality of functions and prompts within the application.
 Git - Version control system to track changes to source code
 GitHub - Hosts repository that can be deployed to GitHub Pages
-
-# Demo :
-https://youtu.be/tWGeLmnC3_A
-
-# Application Preview : 
-
-![Employee Database](assets/employee.gif)
-
-# Technology :
 
 **1. [Express.js](https://expressjs.com/) :
 
@@ -50,6 +43,14 @@ https://youtu.be/tWGeLmnC3_A
 * A Node.js app is run in a single process, without creating a new thread for every request. 
 
 * Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking.
+
+# Demo :
+https://youtu.be/tWGeLmnC3_A
+
+# Application : 
+
+![Employee Database](assets/employee.gif)
+
 
 ## Instalation
 In order to use this application you will need to first run an npm install in your CLI to install the dependencies that have been loaded into the json files for you. Once this is done, run node app.js in your CLI to start the prompts that will walk you through the verious tasks you can perform with this application.
